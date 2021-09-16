@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Poképedia App",
+  "name": "Poképedia React Project by LR",
   "icons": [
     {
       "src": "favicon.ico",
