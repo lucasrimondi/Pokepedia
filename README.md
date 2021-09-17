@@ -8,7 +8,7 @@ Poképedia is a personal project made with React. It is a fully responsive webap
 ## Technologies and tools :computer:
 CRA / React - JavaScript / HTML5 / CSS3 / <a href="https://sweetalert2.github.io">sweetalert2</a> / yarn & git (for deployment)
 
-## Demo 🖥️ 📲
+## Deployment 🖥️ 📲
 <a href="https://lucasrimondi.github.io/Pokepedia/">Poképedia</a> (github page link)
 
 ## Hooks used 🪝
