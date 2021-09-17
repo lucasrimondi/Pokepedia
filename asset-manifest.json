@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Pokepedia/static/css/main.3350b39c.chunk.css",
-    "main.js": "/Pokepedia/static/js/main.de6b1658.chunk.js",
-    "main.js.map": "/Pokepedia/static/js/main.de6b1658.chunk.js.map",
+    "main.css": "/Pokepedia/static/css/main.b021f87f.chunk.css",
+    "main.js": "/Pokepedia/static/js/main.3669ee17.chunk.js",
+    "main.js.map": "/Pokepedia/static/js/main.3669ee17.chunk.js.map",
     "runtime-main.js": "/Pokepedia/static/js/runtime-main.7de970ce.js",
     "runtime-main.js.map": "/Pokepedia/static/js/runtime-main.7de970ce.js.map",
-    "static/js/2.0d10e6aa.chunk.js": "/Pokepedia/static/js/2.0d10e6aa.chunk.js",
-    "static/js/2.0d10e6aa.chunk.js.map": "/Pokepedia/static/js/2.0d10e6aa.chunk.js.map",
+    "static/js/2.d433bc44.chunk.js": "/Pokepedia/static/js/2.d433bc44.chunk.js",
+    "static/js/2.d433bc44.chunk.js.map": "/Pokepedia/static/js/2.d433bc44.chunk.js.map",
     "static/js/3.05a0ce16.chunk.js": "/Pokepedia/static/js/3.05a0ce16.chunk.js",
     "static/js/3.05a0ce16.chunk.js.map": "/Pokepedia/static/js/3.05a0ce16.chunk.js.map",
     "index.html": "/Pokepedia/index.html",
-    "static/css/main.3350b39c.chunk.css.map": "/Pokepedia/static/css/main.3350b39c.chunk.css.map",
-    "static/js/2.0d10e6aa.chunk.js.LICENSE.txt": "/Pokepedia/static/js/2.0d10e6aa.chunk.js.LICENSE.txt",
+    "static/css/main.b021f87f.chunk.css.map": "/Pokepedia/static/css/main.b021f87f.chunk.css.map",
+    "static/js/2.d433bc44.chunk.js.LICENSE.txt": "/Pokepedia/static/js/2.d433bc44.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Pokepedia/static/media/2.38852f8a.jpg",
     "static/media/loader.405d421c.gif": "/Pokepedia/static/media/loader.405d421c.gif",
     "static/media/Pokemons.css": "/Pokepedia/static/media/pokemongb.6211ee48.ttf",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7de970ce.js",
-    "static/js/2.0d10e6aa.chunk.js",
-    "static/css/main.3350b39c.chunk.css",
-    "static/js/main.de6b1658.chunk.js"
+    "static/js/2.d433bc44.chunk.js",
+    "static/css/main.b021f87f.chunk.css",
+    "static/js/main.3669ee17.chunk.js"
   ]
 }
