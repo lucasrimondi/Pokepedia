@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Pokepedia/static/css/main.734f72be.chunk.css",
+    "main.css": "/Pokepedia/static/css/main.5ad97a28.chunk.css",
     "main.js": "/Pokepedia/static/js/main.3669ee17.chunk.js",
     "main.js.map": "/Pokepedia/static/js/main.3669ee17.chunk.js.map",
     "runtime-main.js": "/Pokepedia/static/js/runtime-main.7de970ce.js",
@@ -10,7 +10,7 @@
     "static/js/3.05a0ce16.chunk.js": "/Pokepedia/static/js/3.05a0ce16.chunk.js",
     "static/js/3.05a0ce16.chunk.js.map": "/Pokepedia/static/js/3.05a0ce16.chunk.js.map",
     "index.html": "/Pokepedia/index.html",
-    "static/css/main.734f72be.chunk.css.map": "/Pokepedia/static/css/main.734f72be.chunk.css.map",
+    "static/css/main.5ad97a28.chunk.css.map": "/Pokepedia/static/css/main.5ad97a28.chunk.css.map",
     "static/js/2.d433bc44.chunk.js.LICENSE.txt": "/Pokepedia/static/js/2.d433bc44.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Pokepedia/static/media/2.38852f8a.jpg",
     "static/media/loader.405d421c.gif": "/Pokepedia/static/media/loader.405d421c.gif",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.7de970ce.js",
     "static/js/2.d433bc44.chunk.js",
-    "static/css/main.734f72be.chunk.css",
+    "static/css/main.5ad97a28.chunk.css",
     "static/js/main.3669ee17.chunk.js"
   ]
 }
