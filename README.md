@@ -16,7 +16,7 @@ CRA / React - JavaScript / HTML5 / CSS3 / <a href="https://sweetalert2.github.io
 - useEffect
 
 ## Some Features 🔧
-📌 Divs created for every pokemon fetched from the API. <br> 
+📌 Divs rendered for every pokemon fetched from the API. <br> 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/87493125/133683840-6ff22cfc-ae42-4ce0-b2cc-bfee11c963f8.gif">
 </div>
